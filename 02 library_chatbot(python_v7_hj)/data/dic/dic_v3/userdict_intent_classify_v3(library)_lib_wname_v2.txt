@@ -1,0 +1,1344 @@
+표유진	NNP
+편혜영	NNP
+임솔아	NNP
+김영익	NNP
+홍춘욱	NNP
+김윤정	NNP
+곽재식	NNP
+김경필	NNP
+김이나	NNP
+다니엘	NNP
+핑크	NNP
+다니엘 핑크	NNP
+다니엘핑크	NNP
+애스워드 다모다란	NNP
+다모다란	NNP
+애스워드	NNP
+애스워드다모다란	NNP
+이상우	NNP
+황윤정	NNP
+박길현	NNP
+로베르트뮐러그뤼노브	NNP
+그뤼노브	NNP
+로베르트 뮐러	NNP
+뮐러	NNP
+로베르트 뮐러 그뤼노브	NNP
+로베르트	NNP
+뮐러 그뤼노브	NNP
+박지우	NNP
+몰리뱅	NNP
+몰리	NNP
+몰리 뱅	NNP
+뱅	NNP
+샐리쿨타드	NNP
+샐리	NNP
+쿨타드	NNP
+샐리 쿨타드	NNP
+하브 에커	NNP
+하브에커	NNP
+하브	NNP
+에커	NNP
+박상길	NNP
+사경인	NNP
+송희구	NNP
+송희구	NNP
+류승재	NNP
+사경인	NNP
+허영만	NNP
+배정진	NNP
+오은영	NNP
+이어령	NNP
+한날	NNP
+한날	NNP
+정회도	NNP
+레오(김은진)	NNP
+김은진	NNP
+레오김은진	NNP
+김은진 	NNP
+레오 김은진	NNP
+	NNP
+레오 김은진 	NNP
+레오	NNP
+한동일	NNP
+메이비	NNP
+리처드 메이비	NNP
+리처드	NNP
+리처드메이비	NNP
+라슈미시르데슈판드	NNP
+시르데슈판드	NNP
+라슈미 시르데슈판드	NNP
+라슈미	NNP
+최재천	NNP
+최재훈	NNP
+한센	NNP
+발레리	NNP
+발레리 한센	NNP
+발레리한센	NNP
+카돈	NNP
+그랜트	NNP
+그랜트카돈	NNP
+그랜트 카돈	NNP
+조던B피터슨	NNP
+조던 B 피터슨	NNP
+조던 B	NNP
+조던	NNP
+B 피터슨	NNP
+피터슨	NNP
+B	NNP
+김동식	NNP
+그리피스	NNP
+앤디 그리피스	NNP
+앤디	NNP
+앤디그리피스	NNP
+서영자	NNP
+브라이언 W. 커니핸	NNP
+커니핸	NNP
+브라이언	NNP
+W	NNP
+브라이언W커니핸	NNP
+브라이언 W	NNP
+W 커니핸	NNP
+브라이언 W 커니핸	NNP
+박상영	NNP
+기옌	NNP
+마우로기옌	NNP
+마우로 기옌	NNP
+마우로	NNP
+김범준	NNP
+이용규	NNP
+김태용	NNP
+김혜진	NNP
+미셸	NNP
+미셸 자우너	NNP
+미셸자우너	NNP
+자우너	NNP
+수상한노마드	NNP
+수상한 노마드	NNP
+노마드	NNP
+수상한	NNP
+전홍식	NNP
+이슬아	NNP
+데니스	NNP
+데니스뇌르마르크	NNP
+뇌르마르크	NNP
+데니스 뇌르마르크	NNP
+정소현	NNP
+유선경	NNP
+유선경	NNP
+케이틀린유골릭필립스	NNP
+유골릭	NNP
+케이틀린	NNP
+필립스	NNP
+케이틀린 유골릭 필립스	NNP
+케이틀린 유골릭	NNP
+유골릭 필립스	NNP
+아잔 브라흐마	NNP
+아잔	NNP
+아잔브라흐마	NNP
+브라흐마	NNP
+문유석	NNP
+갤러웨이	NNP
+스콧	NNP
+스콧 갤러웨이	NNP
+스콧갤러웨이	NNP
+제러미	NNP
+제러미 블랙	NNP
+제러미블랙	NNP
+블랙	NNP
+서영조	NNP
+성주희	NNP
+천효정	NNP
+셰인오마라	NNP
+셰인	NNP
+셰인 오마라	NNP
+오마라	NNP
+셰인오마라	NNP
+셰인	NNP
+셰인 오마라	NNP
+오마라	NNP
+프라이스	NNP
+데번	NNP
+데번프라이스	NNP
+데번 프라이스	NNP
+헤이든 핀치	NNP
+헤이든핀치	NNP
+헤이든	NNP
+핀치	NNP
+임은정	NNP
+서은	NNP
+송경화	NNP
+곽재식	NNP
+사쿠마가오루	NNP
+사쿠마 가오루	NNP
+사쿠마	NNP
+가오루	NNP
+홍민정	NNP
+베르나르 베르베르	NNP
+베르나르베르베르	NNP
+베르나르	NNP
+베르베르	NNP
+베르나르 베르베르	NNP
+베르나르베르베르	NNP
+베르나르	NNP
+베르베르	NNP
+무라카미	NNP
+하루키	NNP
+무라카미 하루키	NNP
+무라카미하루키	NNP
+이국종	NNP
+유현준	NNP
+유현준	NNP
+유현준	NNP
+최종엽	NNP
+마이클 샌델	NNP
+마이클샌델	NNP
+마이클	NNP
+샌델	NNP
+김아라	NNP
+세이지	NNP
+이시구로 세이지	NNP
+이시구로	NNP
+이시구로세이지	NNP
+문요한	NNP
+이평	NNP
+곽재식	NNP
+강혜미	NNP
+교양만두	NNP
+팀	NNP
+팀교양만두	NNP
+팀 교양만두	NNP
+멜 로빈스	NNP
+멜로빈스	NNP
+멜	NNP
+로빈스	NNP
+브라이언 클라스	NNP
+브라이언클라스	NNP
+브라이언	NNP
+클라스	NNP
+이서영	NNP
+리드	NNP
+헤이스팅스	NNP
+리드헤이스팅스	NNP
+리드 헤이스팅스	NNP
+조남주	NNP
+박완서	NNP
+주성철	NNP
+송길영	NNP
+장성숙	NNP
+양희은	NNP
+크리스티	NNP
+애거서	NNP
+애거서 크리스티	NNP
+애거서크리스티	NNP
+SUN	NNP
+도슨트	NNP
+SUN도슨트	NNP
+SUN 도슨트	NNP
+이승엽	NNP
+김병운	NNP
+히가시노 게이고	NNP
+히가시노	NNP
+게이고	NNP
+히가시노게이고	NNP
+도키나쓰키	NNP
+도키	NNP
+나쓰키	NNP
+도키 나쓰키	NNP
+김다슬	NNP
+김다슬	NNP
+레몬심리	NNP
+베르나르 베르베르	NNP
+베르나르베르베르	NNP
+베르나르	NNP
+베르베르	NNP
+베르나르 베르베르	NNP
+베르나르베르베르	NNP
+베르나르	NNP
+베르베르	NNP
+최희서	NNP
+김경일	NNP
+김이나	NNP
+길상효	NNP
+셰팔리차바리	NNP
+셰팔리 차바리	NNP
+셰팔리	NNP
+차바리	NNP
+류시화	NNP
+류시화	NNP
+이해인	NNP
+이지선	NNP
+리보위츠	NNP
+프랜리보위츠	NNP
+프랜 리보위츠	NNP
+프랜	NNP
+페리스	NNP
+팀페리스	NNP
+팀	NNP
+팀 페리스	NNP
+김현아	NNP
+손힘찬	NNP
+아니 에르노	NNP
+아니	NNP
+에르노	NNP
+아니에르노	NNP
+투자N	NNP
+잭파시	NNP
+와타나베준이치	NNP
+준이치	NNP
+와타나베	NNP
+와타나베 준이치	NNP
+유성호	NNP
+조석경	NNP
+진은영	NNP
+심활경	NNP
+김정현	NNP
+옥효진	NNP
+김재식	NNP
+질볼트테일러	NNP
+질	NNP
+테일러	NNP
+볼트	NNP
+질 볼트 테일러	NNP
+질 볼트	NNP
+볼트 테일러	NNP
+와카타케나나미	NNP
+와카타케 나나미	NNP
+나나미	NNP
+와카타케	NNP
+시원스쿨	NNP
+스페인어연구소	NNP
+시원스쿨 스페인어연구소	NNP
+시원스쿨스페인어연구소	NNP
+심윤경	NNP
+신미경	NNP
+유목민	NNP
+유목민	NNP
+김유진	NNP
+천선란	NNP
+송병건	NNP
+송병건	NNP
+이도우	NNP
+홍민정	NNP
+홍민정	NNP
+폴 오스터	NNP
+폴	NNP
+폴오스터	NNP
+오스터	NNP
+피지컬갤러리	NNP
+김유겸	NNP
+김정선	NNP
+남인숙	NNP
+김민철	NNP
+권일용	NNP
+윌	NNP
+윌 듀런트	NNP
+듀런트	NNP
+윌듀런트	NNP
+전승환	NNP
+비욘 나티코	NNP
+비욘 나티코 린데블라드	NNP
+비욘	NNP
+비욘나티코린데블라드	NNP
+나티코	NNP
+나티코 린데블라드	NNP
+린데블라드	NNP
+비욘 나티코	NNP
+비욘 나티코 린데블라드	NNP
+비욘	NNP
+비욘나티코린데블라드	NNP
+나티코	NNP
+나티코 린데블라드	NNP
+린데블라드	NNP
+그렉	NNP
+그렉 이건	NNP
+이건	NNP
+그렉이건	NNP
+최은영	NNP
+김지선	NNP
+김장섭	NNP
+조던 김장섭	NNP
+조던	NNP
+조던김장섭	NNP
+김장섭	NNP
+조던 김장섭	NNP
+조던	NNP
+조던김장섭	NNP
+이지은	NNP
+나태주	NNP
+김금희	NNP
+박노해	NNP
+리처드 탈러	NNP
+탈러	NNP
+리처드탈러	NNP
+리처드	NNP
+구병모	NNP
+박윤미	NNP
+페너	NNP
+사라페너	NNP
+사라 페너	NNP
+사라	NNP
+김창기	NNP
+천선란	NNP
+올리비에	NNP
+푸리올	NNP
+올리비에푸리올	NNP
+올리비에 푸리올	NNP
+브루더	NNP
+제시카	NNP
+제시카 브루더	NNP
+제시카브루더	NNP
+이케이도	NNP
+이케이도 준	NNP
+준	NNP
+이케이도준	NNP
+히가시노 게이고	NNP
+히가시노	NNP
+게이고	NNP
+히가시노게이고	NNP
+스콧	NNP
+제임스 C	NNP
+C 스콧	NNP
+C	NNP
+제임스C스콧	NNP
+제임스 C 스콧	NNP
+제임스	NNP
+이기호	NNP
+이어령	NNP
+한유리	NNP
+나종호	NNP
+나종호	NNP
+하루	NNP
+최현명	NNP
+하루히코	NNP
+시라토리 하루히코	NNP
+시라토리	NNP
+시라토리하루히코	NNP
+하이	NNP
+막달레나	NNP
+막달레나하이	NNP
+막달레나 하이	NNP
+하이	NNP
+막달레나	NNP
+막달레나하이	NNP
+막달레나 하이	NNP
+곽수종	NNP
+김하나외	NNP
+김하나	NNP
+외	NNP
+김하나 외	NNP
+정멜멜	NNP
+브라이언헤어	NNP
+헤어	NNP
+브라이언	NNP
+브라이언 헤어	NNP
+양희	NNP
+토드	NNP
+토드로즈	NNP
+로즈	NNP
+토드 로즈	NNP
+애덤 케이	NNP
+애덤	NNP
+케이	NNP
+애덤케이	NNP
+애덤 케이	NNP
+애덤	NNP
+케이	NNP
+애덤케이	NNP
+아니 에르노	NNP
+아니	NNP
+에르노	NNP
+아니에르노	NNP
+조해진	NNP
+봉현	NNP
+장류진	NNP
+김리리	NNP
+김상현	NNP
+김상현	NNP
+톰	NNP
+톰 오브라이언	NNP
+오브라이언	NNP
+톰오브라이언	NNP
+정호승	NNP
+이지영	NNP
+박상영	NNP
+강화길	NNP
+스콧애덤스	NNP
+스콧 애덤스	NNP
+스콧	NNP
+애덤스	NNP
+김영익	NNP
+정세랑	NNP
+헤르만 헤세	NNP
+헤르만	NNP
+헤세	NNP
+헤르만헤세	NNP
+윤고은	NNP
+애나 렘키	NNP
+애나	NNP
+렘키	NNP
+애나렘키	NNP
+이명로	NNP
+이재범	NNP
+이재범 핑크팬더	NNP
+이재범핑크팬더	NNP
+핑크팬더 	NNP
+	NNP
+이재범 핑크팬더 	NNP
+이재범(핑크팬더)	NNP
+핑크팬더	NNP
+모건	NNP
+모건하우절	NNP
+모건 하우절	NNP
+하우절	NNP
+홍춘욱	NNP
+코스톨라니	NNP
+앙드레	NNP
+앙드레코스톨라니	NNP
+앙드레 코스톨라니	NNP
+신예희	NNP
+야쿠마루 가쿠	NNP
+가쿠	NNP
+야쿠마루가쿠	NNP
+야쿠마루	NNP
+정상훈	NNP
+조너선C슬래트	NNP
+조너선 C 슬래트	NNP
+조너선 C	NNP
+조너선	NNP
+조너선 C. 슬래트	NNP
+슬래트	NNP
+C 슬래트	NNP
+C	NNP
+김리리	NNP
+베라	NNP
+스트레인지	NNP
+베라스트레인지	NNP
+베라 스트레인지	NNP
+베라	NNP
+스트레인지	NNP
+베라스트레인지	NNP
+베라 스트레인지	NNP
+홍춘욱	NNP
+클로	NNP
+크리스티앙클로	NNP
+크리스티앙	NNP
+크리스티앙 클로	NNP
+하말넘많	NNP
+임다혜	NNP
+김혜진	NNP
+쩡찌	NNP
+쩡찌	NNP
+김새별	NNP
+김상욱	NNP
+강효미	NNP
+강효미	NNP
+강효미	NNP
+하인리히	NNP
+베른트 하인리히	NNP
+베른트	NNP
+베른트하인리히	NNP
+김도윤	NNP
+드로우앤드류	NNP
+드로우앤드류	NNP
+가머스	NNP
+보니	NNP
+보니 가머스	NNP
+보니가머스	NNP
+가머스	NNP
+보니	NNP
+보니 가머스	NNP
+보니가머스	NNP
+가머스	NNP
+보니	NNP
+보니 가머스	NNP
+보니가머스	NNP
+한은형	NNP
+요코제키	NNP
+요코제키 다이	NNP
+다이	NNP
+요코제키다이	NNP
+채은하	NNP
+아키라	NNP
+히가시야마아키라	NNP
+히가시야마	NNP
+히가시야마 아키라	NNP
+신승철	NNP
+연여름	NNP
+박서련	NNP
+박서련	NNP
+이현수	NNP
+정두영	NNP
+폴커 키츠	NNP
+폴커	NNP
+키츠	NNP
+폴커키츠	NNP
+폴커 키츠	NNP
+폴커	NNP
+키츠	NNP
+폴커키츠	NNP
+나태주	NNP
+오지은	NNP
+지나영	NNP
+김선호	NNP
+엘렌	NNP
+엘렌 랭어	NNP
+엘렌랭어	NNP
+랭어	NNP
+캐시 박	NNP
+박	NNP
+캐시박홍	NNP
+캐시	NNP
+홍	NNP
+캐시 박 홍	NNP
+박 홍	NNP
+짐	NNP
+짐퀵	NNP
+퀵	NNP
+짐 퀵	NNP
+이기주	NNP
+헨리 데이비드	NNP
+데이비드 소로	NNP
+소로	NNP
+헨리	NNP
+헨리데이비드소로	NNP
+헨리 데이비드 소로	NNP
+데이비드	NNP
+박일환	NNP
+올더스헉슬리	NNP
+올더스 헉슬리	NNP
+헉슬리	NNP
+올더스	NNP
+M 버크먼	NNP
+론 M	NNP
+론 M. 버크먼	NNP
+M	NNP
+론	NNP
+론M버크먼	NNP
+론 M 버크먼	NNP
+버크먼	NNP
+제이크	NNP
+제이크 냅	NNP
+제이크냅	NNP
+냅	NNP
+김상균	NNP
+이승환	NNP
+김대식	NNP
+캐럴라인	NNP
+캐럴라인냅	NNP
+캐럴라인 냅	NNP
+냅	NNP
+목정원	NNP
+김동조	NNP
+이평	NNP
+김유은	NNP
+양귀자	NNP
+정세랑	NNP
+정재훈	NNP
+후안 엔리케스	NNP
+엔리케스	NNP
+후안엔리케스	NNP
+후안	NNP
+신지혜	NNP
+베르나르 베르베르	NNP
+베르나르베르베르	NNP
+베르나르	NNP
+베르베르	NNP
+김종원	NNP
+밀러	NNP
+룰루 밀러	NNP
+룰루	NNP
+룰루밀러	NNP
+밀러	NNP
+룰루 밀러	NNP
+룰루	NNP
+룰루밀러	NNP
+이준형	NNP
+김동현	NNP
+장성규	NNP
+장성규	NNP
+백승주	NNP
+L 헤이	NNP
+루이스	NNP
+L	NNP
+루이스 L	NNP
+루이스 L 헤이	NNP
+루이스L헤이	NNP
+헤이	NNP
+앨버트 잭	NNP
+잭	NNP
+앨버트	NNP
+앨버트잭	NNP
+한동일	NNP
+김애란	NNP
+구병모	NNP
+미야시타 나츠	NNP
+나츠	NNP
+미야시타	NNP
+미야시타나츠	NNP
+김진명	NNP
+고흐 빈센트	NNP
+고흐 빈센트 반 고흐	NNP
+고흐빈센트반고흐	NNP
+빈센트 반	NNP
+빈센트	NNP
+고흐	NNP
+반	NNP
+반 고흐	NNP
+페이융	NNP
+최은영	NNP
+심규선	NNP
+조원재	NNP
+김초엽	NNP
+정선근	NNP
+정선근	NNP
+히가시노 게이고	NNP
+히가시노	NNP
+게이고	NNP
+히가시노게이고	NNP
+이상원	NNP
+이현희	NNP
+옥효진	NNP
+레이달리오	NNP
+달리오	NNP
+레이	NNP
+레이 달리오	NNP
+정세랑	NNP
+데이비드	NNP
+데이비드호크니	NNP
+호크니	NNP
+데이비드 호크니	NNP
+다니엘콜	NNP
+다니엘	NNP
+다니엘 콜	NNP
+콜	NNP
+마강래	NNP
+브라운스톤	NNP
+오건영	NNP
+브라운스톤	NNP
+우석	NNP
+엠제이드마코	NNP
+엠제이	NNP
+드마코	NNP
+엠제이 드마코	NNP
+허교범	NNP
+기시미	NNP
+기시미 이치로	NNP
+이치로	NNP
+기시미이치로	NNP
+배크만	NNP
+프레드릭 배크만	NNP
+프레드릭배크만	NNP
+프레드릭	NNP
+김호연	NNP
+히가시노 게이고	NNP
+히가시노	NNP
+게이고	NNP
+히가시노게이고	NNP
+피터 나바로	NNP
+나바로	NNP
+피터	NNP
+피터나바로	NNP
+사강	NNP
+프랑수아즈 사강	NNP
+프랑수아즈	NNP
+프랑수아즈사강	NNP
+박승준	NNP
+김다노	NNP
+이옥선	NNP
+신명호	NNP
+빌게이츠	NNP
+빌 게이츠	NNP
+게이츠	NNP
+빌	NNP
+로마아그라왈	NNP
+로마 아그라왈	NNP
+로마	NNP
+아그라왈	NNP
+로마아그라왈	NNP
+로마 아그라왈	NNP
+로마	NNP
+아그라왈	NNP
+앤드루포터	NNP
+포터	NNP
+앤드루	NNP
+앤드루 포터	NNP
+조수민	NNP
+라자리 라로카	NNP
+라자리라로카	NNP
+라로카	NNP
+라자리	NNP
+존	NNP
+존 셀라스	NNP
+존셀라스	NNP
+셀라스	NNP
+호바스	NNP
+쿠니 호바스	NNP
+제레드쿠니호바스	NNP
+제레드	NNP
+쿠니	NNP
+제레드 쿠니	NNP
+제레드 쿠니 호바스	NNP
+이주연	NNP
+김금희	NNP
+오성은	NNP
+나카무라겐타	NNP
+겐타	NNP
+나카무라 겐타	NNP
+나카무라	NNP
+김영하	NNP
+신스케	NNP
+요시타케 신스케	NNP
+요시타케	NNP
+요시타케신스케	NNP
+찰스 핸디	NNP
+핸디	NNP
+찰스	NNP
+찰스핸디	NNP
+지식 브런치	NNP
+지식브런치	NNP
+브런치	NNP
+지식	NNP
+싱어	NNP
+마이클 A 싱어	NNP
+마이클A싱어	NNP
+A 싱어	NNP
+마이클	NNP
+마이클 A	NNP
+A	NNP
+마이클 A. 싱어	NNP
+이경덕	NNP
+김은주	NNP
+조남주	NNP
+김지혜	NNP
+김옥선	NNP
+박완서	NNP
+사토겐타로	NNP
+겐타로	NNP
+사토	NNP
+사토 겐타로	NNP
+제니퍼 라이트	NNP
+라이트	NNP
+제니퍼	NNP
+제니퍼라이트	NNP
+최재훈	NNP
+프리스비	NNP
+도미닉 프리스비	NNP
+도미닉프리스비	NNP
+도미닉	NNP
+김미경	NNP
+김미경	NNP
+김재원	NNP
+무라세 다케시	NNP
+다케시	NNP
+무라세	NNP
+무라세다케시	NNP
+문환구	NNP
+스콧 토드넘	NNP
+스콧	NNP
+토드넘	NNP
+스콧토드넘	NNP
+한강	NNP
+이승민	NNP
+에릭	NNP
+에릭 와이너	NNP
+에릭와이너	NNP
+와이너	NNP
+박현숙	NNP
+히가시노 게이고	NNP
+히가시노	NNP
+게이고	NNP
+히가시노게이고	NNP
+미치오 슈스케	NNP
+슈스케	NNP
+미치오	NNP
+미치오슈스케	NNP
+테드 창	NNP
+창	NNP
+테드	NNP
+테드창	NNP
+박혜윤	NNP
+러셀	NNP
+도리아 러셀	NNP
+메리 도리아 러셀	NNP
+메리도리아러셀	NNP
+메리 도리아	NNP
+도리아	NNP
+메리	NNP
+홍은실	NNP
+로벨리	NNP
+카를로로벨리	NNP
+카를로 로벨리	NNP
+카를로	NNP
+김수영	NNP
+개리 비숍	NNP
+비숍	NNP
+개리비숍	NNP
+개리	NNP
+조남주	NNP
+이선	NNP
+이소영	NNP
+스튜어트	NNP
+이언	NNP
+이언 스튜어트	NNP
+이언스튜어트	NNP
+전고운	NNP
+마르쿠스 헨리크	NNP
+마르쿠스헨리크	NNP
+마르쿠스	NNP
+헨리크	NNP
+구병모	NNP
+에르베	NNP
+르	NNP
+에르베 르	NNP
+에르베르텔리에	NNP
+르 텔리에	NNP
+텔리에	NNP
+에르베 르 텔리에	NNP
+손경이	NNP
+정선용정스토리	NNP
+정선용	NNP
+정스토리 	NNP
+정선용 정스토리	NNP
+정선용 정스토리 	NNP
+	NNP
+정스토리	NNP
+정선용(정스토리)	NNP
+정진	NNP
+이슬아	NNP
+정혜윤	NNP
+김신회	NNP
+김겨울	NNP
+이진민	NNP
+클리어	NNP
+제임스 클리어	NNP
+제임스	NNP
+제임스클리어	NNP
+클리어	NNP
+제임스 클리어	NNP
+제임스	NNP
+제임스클리어	NNP
+권여선	NNP
+브뤼크네르	NNP
+파스칼브뤼크네르	NNP
+파스칼 브뤼크네르	NNP
+파스칼	NNP
+하강산	NNP
+리안 모리아티	NNP
+리안	NNP
+모리아티	NNP
+리안모리아티	NNP
+김정	NNP
+김정	NNP
+박정현	NNP
+박정현	NNP
+히가시노 게이고	NNP
+히가시노	NNP
+게이고	NNP
+히가시노게이고	NNP
+데이비드 섬프터	NNP
+데이비드섬프터	NNP
+섬프터	NNP
+데이비드	NNP
+최은영	NNP
+에마	NNP
+에마미첼	NNP
+에마 미첼	NNP
+미첼	NNP
+게리 하우겐	NNP
+게리	NNP
+하우겐	NNP
+게리하우겐	NNP
+김소연	NNP
+권남희	NNP
+세이카	NNP
+세이카료겐	NNP
+세이카 료겐	NNP
+료겐	NNP
+딘	NNP
+딘 쿤츠	NNP
+쿤츠	NNP
+딘쿤츠	NNP
+데이지	NNP
+웨이드먼	NNP
+데이지웨이드먼	NNP
+데이지 웨이드먼	NNP
+김애리	NNP
+임채영	NNP
+김소영	NNP
+제임스 맥브라이드	NNP
+제임스	NNP
+맥브라이드	NNP
+제임스맥브라이드	NNP
+황보름	NNP
+황보름	NNP
+크리스털	NNP
+데이비드 크리스털	NNP
+데이비드크리스털	NNP
+데이비드	NNP
+하지은	NNP
+김용섭	NNP
+원종우	NNP
+원종우	NNP
+원종우	NNP
+원종우	NNP
+원종우	NNP
+브라이언 그린	NNP
+브라이언	NNP
+브라이언그린	NNP
+그린	NNP
+마르그리트	NNP
+마르그리트뒤라스	NNP
+뒤라스	NNP
+마르그리트 뒤라스	NNP
+김하나	NNP
+김영하	NNP
+김영하	NNP
+자청	NNP
+서영조	NNP
+영어독립단어	NNP
+영어독립단어콘텐츠팀	NNP
+콘텐츠팀	NNP
+영어독립단어 콘텐츠팀	NNP
+고광윤	NNP
+문성현	NNP
+이순자	NNP
+김원아	NNP
+반힐	NNP
+켈리 반힐	NNP
+켈리	NNP
+켈리반힐	NNP
+이치조미사키	NNP
+미사키	NNP
+이치조	NNP
+이치조 미사키	NNP
+박상영	NNP
+김한준	NNP
+박준형	NNP
+샘	NNP
+혼	NNP
+샘혼	NNP
+샘 혼	NNP
+마스다미리	NNP
+미리	NNP
+마스다	NNP
+마스다 미리	NNP
+김동완	NNP
+모드쥘리앵	NNP
+모드	NNP
+쥘리앵	NNP
+모드 쥘리앵	NNP
+정유정	NNP
+박영규	NNP
+알랭 드	NNP
+드 보통	NNP
+알랭	NNP
+알랭 드 보통	NNP
+알랭드보통	NNP
+드	NNP
+보통	NNP
+캐럴라인	NNP
+캐럴라인냅	NNP
+캐럴라인 냅	NNP
+냅	NNP
+백웅재	NNP
+신병주	NNP
+김초엽	NNP
+공윤희	NNP
+존	NNP
+존 페트로첼리	NNP
+페트로첼리	NNP
+존페트로첼리	NNP
+에리히	NNP
+에리히프롬	NNP
+에리히 프롬	NNP
+프롬	NNP
+천선란	NNP
+스튜디오	NNP
+조구만스튜디오	NNP
+조구만 스튜디오	NNP
+조구만	NNP
+김금희	NNP
+조수연	NNP
+조수연	NNP
+박홍순	NNP
+안상순	NNP
+김누리	NNP
+코발	NNP
+월리 코발	NNP
+월리코발	NNP
+월리	NNP
+너나위	NNP
+켈리	NNP
+최	NNP
+켈리최	NNP
+켈리 최	NNP
+사너	NNP
+사너 블라우	NNP
+블라우	NNP
+사너블라우	NNP
+유지	NNP
+구로카와 유지	NNP
+구로카와유지	NNP
+구로카와	NNP
+송은혜	NNP
+곽경훈	NNP
+SUN	NNP
+도슨트	NNP
+SUN도슨트	NNP
+SUN 도슨트	NNP
+강신호	NNP
+김지수	NNP
+리사	NNP
+리사 펠드먼	NNP
+펠드먼	NNP
+배럿	NNP
+리사 펠드먼 배럿	NNP
+펠드먼 배럿	NNP
+리사펠드먼배럿	NNP
+다자이오사무	NNP
+오사무	NNP
+다자이	NNP
+다자이 오사무	NNP
+제프	NNP
+다이어	NNP
+제프 다이어	NNP
+제프다이어	NNP
+훙페이윈	NNP
+다이어	NNP
+웨인 다이어	NNP
+웨인	NNP
+웨인다이어	NNP
+오건영	NNP
+박권	NNP
+장류진	NNP
+최지인	NNP
+TeamStoryG	NNP
+Story	NNP
+G	NNP
+Team Story G	NNP
+Story G	NNP
+Team	NNP
+Team Story	NNP
+TeamStoryG	NNP
+Story	NNP
+G	NNP
+Team Story G	NNP
+Story G	NNP
+Team	NNP
+Team Story	NNP
+김영하	NNP
+한강	NNP
+김리리	NNP
+은희경	NNP
+송병건	NNP
+김훈	NNP
+김경일	NNP
+김혼비	NNP
+피트	NNP
+데이비스	NNP
+피트데이비스	NNP
+피트 데이비스	NNP
+올가	NNP
+올가그레벤니크	NNP
+그레벤니크	NNP
+올가 그레벤니크	NNP
+정지음	NNP
+레비틴	NNP
+대니얼	NNP
+대니얼 J	NNP
+J 레비틴	NNP
+대니얼 J 레비틴	NNP
+대니얼J레비틴	NNP
+J	NNP
+Shoko	NNP
+마이클 샌델	NNP
+마이클샌델	NNP
+마이클	NNP
+샌델	NNP
+김정민	NNP
+스테퍼니랜드	NNP
+랜드	NNP
+스테퍼니	NNP
+스테퍼니 랜드	NNP
+정유정	NNP
+염승환	NNP
+김완	NNP
+마거릿애트우드	NNP
+마거릿	NNP
+애트우드	NNP
+마거릿 애트우드	NNP
+김초엽	NNP
+김혜순	NNP
+테리	NNP
+덴톤	NNP
+테리 덴톤	NNP
+테리덴톤	NNP
+정세랑	NNP
+제프	NNP
+다이어	NNP
+제프 다이어	NNP
+제프다이어	NNP
+채사장	NNP
+채사장	NNP
+채사장	NNP
+채사장	NNP
+글배우	NNP
+톰	NNP
+필립스	NNP
+톰 필립스	NNP
+톰필립스	NNP
+존와이스너	NNP
+존 와이스너	NNP
+와이스너	NNP
+존	NNP
+에쿠니	NNP
+에쿠니 가오리	NNP
+가오리	NNP
+에쿠니가오리	NNP
+에쿠니	NNP
+에쿠니 가오리	NNP
+가오리	NNP
+에쿠니가오리	NNP
+권동현	NNP
+김희교	NNP
+JTBC	NNP
+클라스 제작팀	NNP
+JTBC 차이나는	NNP
+JTBC 차이나는 클라스 제작팀	NNP
+JTBC차이나는클라스제작팀	NNP
+제작팀	NNP
+차이나는 클라스	NNP
+차이나는	NNP
+클라스	NNP
+JTBC＜차이나는 클라스＞제작팀	NNP
+요나손	NNP
+요나스요나손	NNP
+요나스	NNP
+요나스 요나손	NNP
+백지혜	NNP
+한강	NNP
+장강명	NNP
+제프	NNP
+제프호킨스	NNP
+제프 호킨스	NNP
+호킨스	NNP
+천선란	NNP
+박동수	NNP
+샌드라 거스	NNP
+거스	NNP
+샌드라	NNP
+샌드라거스	NNP
+체호프	NNP
+안톤 체호프	NNP
+안톤	NNP
+안톤체호프	NNP
+민성원	NNP
+이은경	NNP
+이상현	NNP
+이상현	NNP
+레이첼	NNP
+레이첼카슨	NNP
+카슨	NNP
+레이첼 카슨	NNP
+론다개어릭	NNP
+론다 개어릭	NNP
+개어릭	NNP
+론다	NNP
+황선우	NNP
+페리스	NNP
+팀페리스	NNP
+팀	NNP
+팀 페리스	NNP
+손원평	NNP
+박보나	NNP
+BA패리스	NNP
+B A	NNP
+B A 패리스	NNP
+패리스	NNP
+B	NNP
+B. A. 패리스	NNP
+A 패리스	NNP
+A	NNP
+최연호	NNP
+아쓰카와	NNP
+아쓰카와 다쓰미	NNP
+아쓰카와다쓰미	NNP
+다쓰미	NNP
+폴 콘티	NNP
+폴콘티	NNP
+콘티	NNP
+폴	NNP
+김경희	NNP
+이동진	NNP
+로슬링	NNP
+한스 로슬링	NNP
+한스로슬링	NNP
+한스	NNP
+알베르	NNP
+알베르카뮈	NNP
+카뮈	NNP
+알베르 카뮈	NNP
+오르한	NNP
+오르한 파묵	NNP
+파묵	NNP
+오르한파묵	NNP
+최재붕	NNP
+강요배	NNP
+케네스	NNP
+케네스쿠키어	NNP
+쿠키어	NNP
+케네스 쿠키어	NNP
+앤디위어	NNP
+앤디 위어	NNP
+위어	NNP
+앤디	NNP
+모빌스	NNP
+모빌스그룹	NNP
+그룹	NNP
+모빌스 그룹	NNP
+허태연	NNP
+슈웨블린	NNP
+사만타 슈웨블린	NNP
+사만타	NNP
+사만타슈웨블린	NNP
+러셀	NNP
+러셀셔먼	NNP
+러셀 셔먼	NNP
+셔먼	NNP
+정세랑	NNP
+매튜룬	NNP
+매튜	NNP
+룬	NNP
+매튜 룬	NNP
+하완	NNP
+다카하시유키	NNP
+유키	NNP
+다카하시	NNP
+다카하시 유키	NNP
+권기복	NNP
+박권일	NNP
+장명숙	NNP
+베르나르 베르베르	NNP
+베르나르베르베르	NNP
+베르나르	NNP
+베르베르	NNP
+베르나르 베르베르	NNP
+베르나르베르베르	NNP
+베르나르	NNP
+베르베르	NNP
+헤르만 헤세	NNP
+헤르만	NNP
+헤세	NNP
+헤르만헤세	NNP
+J D 샐린저	NNP
+J.D. 샐린저	NNP
+D 샐린저	NNP
+JD샐린저	NNP
+D	NNP
+J D	NNP
+샐린저	NNP
+J	NNP
+황현진	NNP
+윤가은	NNP
+이상학	NNP
+흔한남매	NNP
