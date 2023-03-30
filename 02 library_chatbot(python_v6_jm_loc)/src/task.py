@@ -9,8 +9,8 @@ import pickle
 import db_conn
 import json
 
-local_path = 'C:/Users/user/Documents/GitHub/hj_sesac_final_pjt/FINAL_CHATBOT_PROJECT(~ing)/02 library_chatbot(python_v5_jm_loc)/'
-p = preprocess.Preprocess(word2index_dic=local_path+'data/dic/chatbot_dict.bin' ,userdic=local_path+'data/dic/dic_v2/userdict_intent_classify_v3(library)_all_lname_bname_wname_v2.txt')
+local_path = 'C:/Users/user/Documents/GitHub/hj_sesac_final_pjt/FINAL_CHATBOT_PROJECT(~ing)/02 library_chatbot(python_v6_jm_loc)/'
+p = preprocess.Preprocess(word2index_dic=local_path+'data/dic/chatbot_dict.bin' ,userdic=local_path+'data/dic/dic_v3/userdict_intent_classify_v3(library)_all_lname_bname_wname_v2.txt')
 # database = pd.read_csv(local_path+'/data/csv/intent_classify/intent_classify_v3_database(library).csv',encoding='cp949')
 db = db_conn.Database()
 
@@ -73,10 +73,10 @@ def check_lname_bname_wname(ans,user_input):
     all_lname_list = ['광진','광진정보','광진 정보','자양','자양한강','자양 한강',
                       '군자','군자역','합정','합정역']
     
-    with open(local_path+'data/dic/dic_v2/all_bname_list_v2.pkl','rb') as f1:
+    with open(local_path+'data/dic/dic_v3/all_bname_list_v2.pkl','rb') as f1:
         all_bname_list = pickle.load(f1)
 
-    with open(local_path+'data/dic/dic_v2/all_wname_list_v2.pkl','rb') as f2:
+    with open(local_path+'data/dic/dic_v3/all_wname_list_v2.pkl','rb') as f2:
         all_wname_list = pickle.load(f2)
 
     req_lname = ""
@@ -114,7 +114,7 @@ def recommed_by_lname_gname(ans,user_input):
     all_lname_list = ['광진','광진정보','광진 정보','자양','자양한강','자양 한강',
                       '군자','군자역','합정','합정역']
 
-    with open(local_path+'data/dic/dic_v2/all_gname_list.pkl','rb') as f3:
+    with open(local_path+'data/dic/dic_v3/all_gname_list.pkl','rb') as f3:
         all_gname_list = pickle.load(f3)
 
     req_lname = ''
@@ -252,26 +252,43 @@ def check_is_in_library(ans,node):
     # db_bname_list = database['bname'].tolist()
     # db_wname_list = database['wname'].tolist()
 
+
     # 도서관 도서명, 작가명 list 불러오기    
-    with open(local_path+'data/dic/dic_v2/lib_bname_list_v2.pkl','rb') as f4:
-        lib_bname_list = pickle.load(f4)
+    # with open(local_path+'data/dic/dic_v3/lib_bname_list_v2.pkl','rb') as f4:
+    #     lib_bname_list = pickle.load(f4)
 
-    with open(local_path+'data/dic/dic_v2/lib_wname_list_v2.pkl','rb') as f5:
-        lib_wname_list = pickle.load(f5)
+    # with open(local_path+'data/dic/dic_v3/lib_wname_list_v2.pkl','rb') as f5:
+    #     lib_wname_list = pickle.load(f5)
     
-    # 도서관 도서명, 작가명 parser 불러오기 (dict타입)
-    with open(local_path+'data/dic/dic_v2/lib_bname_parser_v2.pkl','rb') as f6:
-        lib_bname_parser = pickle.load(f6)
+    # 도서관 도서명, 작가명 parser 불러오기 (dict 타입)
+    # with open(local_path+'data/dic/dic_v3/lib_bname_parser_v2.pkl','rb') as f6:
+    #     lib_bname_parser = pickle.load(f6)
 
-    with open(local_path+'data/dic/dic_v2/lib_wname_parser_v2.pkl','rb') as f7:
-        lib_wname_parser = pickle.load(f7)
+    # with open(local_path+'data/dic/dic_v3/lib_wname_parser_v2.pkl','rb') as f7:
+    #     lib_wname_parser = pickle.load(f7)
+
+
+    # 모든 도서명, 작가명 list 불러오기
+    with open(local_path+'data/dic/dic_v3/all_bname_list_v2.pkl','rb') as f4:
+        all_bname_list = pickle.load(f4)
+
+    with open(local_path+'data/dic/dic_v3/all_wname_list_v2.pkl','rb') as f5:
+        all_wname_list = pickle.load(f5)
+
+
+    # 모든 도서명, 작가명 parser 불러오기 (dict 타입)
+    with open(local_path+'data/dic/dic_v3/all_bname_parser.pkl','rb') as f6:
+        all_bname_parser = pickle.load(f6)
+
+    with open(local_path+'data/dic/dic_v3/all_wname_parser.pkl','rb') as f7:
+        all_wname_parser = pickle.load(f7)
 
 
     if req_bname != '':
-        if req_bname in lib_bname_list:
+        if req_bname in all_bname_list:
             print("<System> 도서명 기반 검색 완료")
             # print(database[database['bname']==req_bname])
-            ans.set_req_bname(lib_bname_parser[req_bname])
+            ans.set_in_lib_bname(all_bname_parser[req_bname])
             # ans.set_in_lib_bname(lib_bname_parser[req_bname])
             # ans.set_response("<System> 도서명 기반 검색 완료")
             # ans.set_response(str(database[database['bname']==req_bname]))
@@ -279,10 +296,10 @@ def check_is_in_library(ans,node):
     
     
     if req_wname != '':
-        if req_wname in lib_wname_list:
+        if req_wname in all_wname_list:
             print("<System> 작가명 기반 검색 완료")
             # print(database[database['wname']==req_wname])
-            ans.set_req_wname(lib_wname_parser[req_wname])
+            ans.set_in_lib_wname(all_wname_parser[req_wname])
             # ans.set_in_lib_wname(lib_wname_parser[req_wname])
             # ans.set_response("<System> 작가명 기반 검색 완료")
             # ans.set_response(str(database[database['wname']==req_wname]))

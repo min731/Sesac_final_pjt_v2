@@ -244,6 +244,7 @@ def check_is_in_library(ans,node):
     # 찾음 = 0 , 못찾음 = 1 
     can_search = 1
 
+    req_lname = node.get_data()['req_lname']
     req_bname = node.get_data()['req_bname'] 
     req_wname = node.get_data()['req_wname']
 

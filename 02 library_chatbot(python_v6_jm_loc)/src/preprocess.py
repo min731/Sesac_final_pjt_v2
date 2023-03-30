@@ -1,10 +1,10 @@
 from konlpy.tag import Komoran
 import pickle
 
-local_path = 'C:/Users/user/Documents/GitHub/hj_sesac_final_pjt/FINAL_CHATBOT_PROJECT(~ing)/02 library_chatbot(python_v5_jm_loc)/'
+local_path = 'C:/Users/user/Documents/GitHub/hj_sesac_final_pjt/FINAL_CHATBOT_PROJECT(~ing)/02 library_chatbot(python_v6_jm_loc)/'
 
 class Preprocess:
-    def __init__(self, word2index_dic=local_path+'data/dic/chatbot_dict.bin' ,userdic=local_path+'data/dic/dic_v2/userdict_intent_classify_v3(library)_all_lname_bname_wname_v2.txt'): # userdic 인자에는 사용자 정의 사전 파일 경로 입력가능
+    def __init__(self, word2index_dic=local_path+'data/dic/chatbot_dict.bin' ,userdic=local_path+'data/dic/dic_v3/userdict_intent_classify_v3(library)_all_lname_bname_wname_v2.txt'): # userdic 인자에는 사용자 정의 사전 파일 경로 입력가능
         
         # 단어 인덱스 사전 불러오기 추가
         if(word2index_dic != ''):

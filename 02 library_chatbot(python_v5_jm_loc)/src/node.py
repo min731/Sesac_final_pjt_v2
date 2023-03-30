@@ -149,13 +149,14 @@ class Node:
             
             ans  = task.check_lname_bname_wname(ans,node.get_data()['user_input'])
 
-            if ans.get_req_bname() == '' and ans.get_req_wname() == '':
-                print("정확한 도서명 혹은 작가명을 입력해주세요.")
-                ans.set_response("정확한 도서명 혹은 작가명을 입력해주세요.")
+            if ans.get_req_lname() == '' and ans.get_req_bname() == '' and ans.get_req_wname() == '':
+                print("정확한 위치명이나 도서명 혹은 작가명을 입력해주세요.")
+                ans.set_response("정확한 위치명이나도서명 혹은 작가명을 입력해주세요.")
                 next_node = graph[6][1] # node8
-            elif ans.get_req_bname() != '' or ans.get_req_wname() != '':
+            elif ans.get_req_lname() != '' or ans.get_req_bname() != '' or ans.get_req_wname() != '':
                 next_node = graph[2][0] #node6
                 next_node.set_rmv_idx(0)
+                next_node.set_data('req_lname',ans.get_req_lname())
                 next_node.set_data('req_bname',ans.get_req_bname())
                 next_node.set_data('req_wname',ans.get_req_wname())
                 # node2 ==> node5 자신의 인덱스를 rmv_idx 로

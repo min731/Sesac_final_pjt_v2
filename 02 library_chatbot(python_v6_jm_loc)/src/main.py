@@ -10,7 +10,7 @@ import node
 def set_node_list1():
 
     #local_path 이미 선언
-    local_path = 'C:/Users/user/Documents/GitHub/hj_sesac_final_pjt/FINAL_CHATBOT_PROJECT(~ing)/02 library_chatbot(python_v5_jm_loc)/'
+    local_path = 'C:/Users/user/Documents/GitHub/hj_sesac_final_pjt/FINAL_CHATBOT_PROJECT(~ing)/02 library_chatbot(python_v6_jm_loc)/'
 
     # 모델 로드
     print("의도 분류 모델 로딩 중...")
@@ -32,7 +32,7 @@ def set_node_list1():
     # 통합 문의 데이터 로드
     print("<System> 문의 csv, emd 데이터 로드 중...")
     inquiry_data_all = pd.read_csv(local_path+'data/csv/inquiry/inquiry_all.csv',encoding='cp949')
-    inquiry_embedding_data_all = torch.load(local_path+'data/embedding_data/inquiry_embedding_data.pt')
+    inquiry_embedding_data_all = torch.load(local_path+'data/embedding_data/inquiry_embedding_data_all.pt')
 
     # 개별 문의 데이터 로드
     # 광진
