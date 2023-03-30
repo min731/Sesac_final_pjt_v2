@@ -54,7 +54,8 @@ def sentences_to_idx(intents_list):
         sequences.append(seq)
 
     # 조회, 추천, 문의 의도 분류 데이터 tokenize 시 최대 형태소 길이
-    max_len = 15
+    # 15 => 16으로 수정
+    max_len = 16
 
     input_test = pad_sequences(sequences, maxlen=max_len)
 
